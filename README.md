@@ -18,6 +18,8 @@ updated asset information is verified by its internal database and support scrip
 ### APPLICATION REQUIREMENTS
 Functional LAMP Platform - Linux, Apache, PHP 5.x and above, and MySQL Database environments.
 
+### Application Screenshot
+![alt text](https://github.com/swampcritter/darwin/main/darwin.jpg?raw=true)
 
 ### INSTALLATION INSTRUCTIONS
 1) Find a location to store all the DARWIN-related files as found in
