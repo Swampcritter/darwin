@@ -1,4 +1,4 @@
-# darwin
+# DARWIN
 Data Asset Resource Web Interface (DARWIN)
 
 Author: Michael Worsham (maworsham -at- gmail.com)
